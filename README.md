@@ -30,7 +30,7 @@ nosostros ocupamos en especial un Lm35 para la temperatura de su hogar.
 
 # Caracteristicas del material
   El Arduino ethernet shield nos da la capacidad de conectar un Arduino a una red ethernet. Es la parte física que implementa la  pila de protocolos TCP/IP.
-
+     ![imagen de Arduino Ethernet Shield W5100]()
   Está basada en el chip ethernet Wiznet W5100. El Wiznet W5100 provee de una pila de red IP capaz de soportar TCP y UDP. Soporta  hasta cuatro conexiones de sockets simultáneas. Usa la librería Ethernet para leer y escribir los flujos de datos que pasan por  el puerto ethernet. Me permitirá escribir sketches que se conecten a internet usando la shield.
   El shield provee un conector ethernet estándar RJ45. La ethernet shield dispone de unos conectores que permiten conectar a su vez otras placas encima y apilarlas sobre la placa Arduino.
 
