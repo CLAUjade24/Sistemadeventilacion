@@ -26,6 +26,7 @@ nosostros ocupamos en especial un Lm35 para la temperatura de su hogar.
 * cables hembra-macho y macho-macho
 * protoboard
 * Un modem para poder usar con exito Shield W5100
+* Un transistor 2N2222. Comprobad que lleva rotulada esta referencia, porque el sensor de temperatura es similar
 
 # Caracteristicas del material
   El Arduino ethernet shield nos da la capacidad de conectar un Arduino a una red ethernet. Es la parte física que implementa la  pila de protocolos TCP/IP.
