@@ -1,2 +1,2 @@
-# Sistemadeventilacion
-sensores, red ethernet, ventilador y arduino 
+# Sistema de ventilacion
+ 
