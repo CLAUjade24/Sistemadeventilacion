@@ -51,8 +51,8 @@ La shield contiene varios LEDs para información:
 El jumper soldado marcado como “INT” puede ser conectado para permitir a la placa Arduino recibir notificaciones de eventos por interrupción desde el W5100, pero esto no está soportado por la librería Ethernet. El jumper conecta el pin INT del W5100 al pin digital 2 de Arduino.
 
 El slot SD en la shield usa la l
-  
-
+  * Humedad y temperatura
+ ![imagen de sensore dht11](https://github.com/CLAUjade24/Sistemadeventilacion/blob/master/imagSistemaventilador/ArduinoEthernetShield%20w5100.jpg)
 
 
  
