@@ -17,6 +17,7 @@ nosostros ocupamos en especial un Lm35 para la temperatura de su hogar.
  
 # Material 
 * Arduino Uno 
+* Un servomotor sg90
 * sensor de humedad DHT11
 * Sensor de tempreatura DHT11
 * Arduino Ethernet Shield W5100
