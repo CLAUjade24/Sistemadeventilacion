@@ -52,7 +52,7 @@ El jumper soldado marcado como “INT” puede ser conectado para permitir a la 
 
 El slot SD en la shield usa la l
   * Humedad y temperatura
- ![imagen de sensore dht11](https://github.com/CLAUjade24/Sistemadeventilacion/blob/master/imagSistemaventilador/ArduinoEthernetShield%20w5100.jpg)
+ ![imagen de sensore dht11](https://github.com/CLAUjade24/Sistemadeventilacion/blob/master/imagSistemaventilador/sensor-de-humedad-y-temperatura-dht11.jpg)
 
 
  
