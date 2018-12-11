@@ -13,7 +13,24 @@ nosostros ocupamos en especial un Lm35 para la temperatura de su hogar.
  * El segundo sensor que ocupamos fue el de luminicidad, este sensor nos brindara luz al momento de que en el hogar o lugar se encuentre con muy poca luz esto con el fin de que los amantes de lo ajeno no sospechen que la casa se encuentra sola o solo para darle luz a un espacio del lugar
  
  * Para el tercer sensor sera el de humedad, lo utilizamos para saber cuanta humedad transmite el lugar en donde se encuetra   ubicado. 
- Cabe destacar que para los sensores de humedad se utilizo de DHT11, esto mas adelante se mostraran la imagenes del material que se ocupo  
+ Cabe destacar que para los sensores de humedad se utilizo de DHT11, esto mas adelante se mostraran la imagenes del material que se ocupo 
+ 
+# Material 
+* Arduino Uno 
+* sensor de humedad DHT11
+* Sensor de tempreatura DHT11
+* Arduino Ethernet Shield W5100
+* Sensor de luz (fotoresistencia)
+* Un ventilador de 5V o un motor de corriente continua.
+* cables hembra-macho y macho-macho
+* protoboard
+* Un modem para poder usar con exito Shield W5100
+
+# Caracteristicas del material
+  
+
+
+
  
  
  
