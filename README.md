@@ -60,10 +60,9 @@ El slot SD en la shield usa la l
 # Resultados
   
  ![IMG_20181211_120405701](https://github.com/CLAUjade24/Sistemadeventilacion/blob/master/imagSistemaventilador/IMG_20181211_120405701.jpg)
-Pagina sensores.PNG
-
 
 # Vista en Pagina web
- ![Pagina sensores](https://github.com/CLAUjade24/Sistemadeventilacion/Pagina sensores.PNG)
+ ![Pagina sensores](https://github.com/CLAUjade24/Sistemadeventilacion/blob/master/Pagina%20sensores.PNG)
+     
  
  
