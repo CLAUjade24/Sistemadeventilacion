@@ -56,10 +56,23 @@ El slot SD en la shield usa la l
   * Humedad y temperatura
   
  ![imagen de sensore dht11](https://github.com/CLAUjade24/Sistemadeventilacion/blob/master/imagSistemaventilador/sensor-de-humedad-y-temperatura-dht11.jpg)
+ 
+ Diagrama Conexión
+  ![Arduino-DHT11-Tutorial-3-Pin-DHT11-Wiring-Diagram](https://github.com/CLAUjade24/Sistemadeventilacion/blob/master/imagSistemaventilador/Arduino-DHT11-Tutorial-3-Pin-DHT11-Wiring-Diagram.png)
+ 
+ 
 
 # Resultados
+
+Diagrama conexion ventilador 
+
+  ![Sesion_130_bb](https://github.com/CLAUjade24/Sistemadeventilacion/blob/master/imagSistemaventilador/Sesion_130_bb.png)
+  
   
  ![IMG_20181211_120405701](https://github.com/CLAUjade24/Sistemadeventilacion/blob/master/imagSistemaventilador/IMG_20181211_120405701.jpg)
+ 
+ ![IMG_20181211_120413024](https://github.com/CLAUjade24/Sistemadeventilacion/blob/master/imagSistemaventilador/IMG_20181211_120413024.jpg)
+
 
 # Vista en Pagina web
  ![Pagina sensores](https://github.com/CLAUjade24/Sistemadeventilacion/blob/master/Pagina%20sensores.PNG)
