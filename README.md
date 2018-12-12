@@ -64,6 +64,6 @@ Pagina sensores.PNG
 
 
 # Vista en Pagina web
- ![Pagina sensores](https://github.com/CLAUjade24/Sistemadeventilacion/blob/master/imagSistemaventilador/Pagina sensores.PNG)
+ ![Pagina sensores](https://github.com/CLAUjade24/Sistemadeventilacion/blob/master/Pagina sensores.PNG)
  
  
