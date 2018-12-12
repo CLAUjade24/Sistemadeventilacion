@@ -58,6 +58,8 @@ El slot SD en la shield usa la l
  ![imagen de sensore dht11](https://github.com/CLAUjade24/Sistemadeventilacion/blob/master/imagSistemaventilador/sensor-de-humedad-y-temperatura-dht11.jpg)
 
 
+  
+ ![IMG_20181211_120405701](https://github.com/CLAUjade24/Sistemadeventilacion/blob/master/imagSistemaventilador/IMG_20181211_120405701.jpg)
  
  
  
